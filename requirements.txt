@@ -1,0 +1,3 @@
+-i http://pypi.dobanio.com/simple/       #配置PyPI源
+Django
+-e .                                     #从当前的setup.py查找其他依赖
